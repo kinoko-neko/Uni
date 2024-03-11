@@ -24,9 +24,9 @@ Matematyka dyskretna (Discrete mathematics)
 Metody implementacji Algorytmów (Algorithm implementation methods)
 
 Summer 2022/23
-Algorytmy i struktury danych (L) (Algorithms and Data Structures (L) )
-Kurs administrowania systemem Linux (Linux System Administration Course)
-Rachunek prawdopodobieństwa i statystyka ( Probability calculus and statistics)
+Algorytmy i struktury danych (L) (Algorithms and Data Structures (L) )<br />
+Kurs administrowania systemem Linux (Linux System Administration Course)\
+Rachunek prawdopodobieństwa i statystyka ( Probability calculus and statistics)\
 Systemy komputerowe (Computer Systems)
 Wstęp do bezpieczeństwa komputerowego (Introduction to Computer Security)
 
