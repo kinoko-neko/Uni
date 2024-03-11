@@ -3,7 +3,7 @@
 Finished courses:
 
 Winter 2021/22
-Analiza matematyczna (Mathematical analysis)
+Analiza matematyczna (Mathematical analysis)  
 Kurs: Podstawowy warsztat informatyka (Course: Basic computer science workshop)
 Logika dla informatyków (zaawansowana) (Logic for computer science (advaced))
 Metody implementacji Algorytmów (Algorithm implementation methods)
