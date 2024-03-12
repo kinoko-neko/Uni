@@ -1,0 +1,3 @@
+fd 100
+rt 144
+showturtle
